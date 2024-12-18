@@ -325,6 +325,7 @@ a13 a23 56 a50
     </comp>
     <comp lib="0" loc="(810,1010)" name="Pin">
       <a name="facing" val="west"/>
+      <a name="output" val="true"/>
       <a name="width" val="4"/>
       <a name="tristate" val="false"/>
     </comp>
